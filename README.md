@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Suvarna</h1>
 <h3 align="center">An aspiring software developer studying at McMaster University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryansuvarna&label=Profile%20views&color=0e75b6&style=flat" alt="aryansuvarna" /> </p>
-
 - 🔭 I’m currently working on **my personal portfolio**
 
 - 🌱 I’m currently learning **React**
